@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WhetherAsk/1.0.0": {
+        "runtime": {
+          "WhetherAsk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhetherAsk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
