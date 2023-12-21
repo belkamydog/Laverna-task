@@ -1,0 +1,25 @@
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WeatherApp.csproj.CopyComplete
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Aryom\source\repos\WindowsFormsApp2 - копия\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CopyComplete
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe.config
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\bin\Release\WeatherApp.exe
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\bin\Release\WeatherApp.pdb
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.Properties.Resources.resources
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.exe
+C:\Users\Aryom\source\repos\WeatherApp\WeatherApp\obj\Release\WeatherApp.pdb
