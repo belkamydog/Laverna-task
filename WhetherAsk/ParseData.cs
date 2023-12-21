@@ -1,3 +1,4 @@
+// Это основной класс хранит данные которые спарсили с jsona и содержит соотв поля
 public class ParseData
 {
     public Coord coord { get; set; }
@@ -15,6 +16,7 @@ public class ParseData
     public int cod { get; set; }
 }
 
+// Вспомогательные классы для хранения и структурирования данных внутри jsona
 public class Coord
 {
     public float lon { get; set; }
